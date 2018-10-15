@@ -1,5 +1,5 @@
 # Modern Responsive Website
-Linkt to site: 
+Linkt to site:  https://kimura-dev1297.github.io/omnifood/
 
 Omnifood is a fictional online store I have used to build numerous websites. I use an overwhelming amount of HTML5 & CSS3. I also use jQuery, JS and jQuery waypoints plugin to help with animation.
 
